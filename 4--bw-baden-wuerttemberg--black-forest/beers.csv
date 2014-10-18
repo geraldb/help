@@ -1,0 +1,53 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Alpirsbacher Klosterbru,Alpirsbach,Pils,4.9%,?,?,?
+Alpirsbacher Klosterbru,Alpirsbach,Spezial,5.2%,?,?,?
+Arcobrau Grafliches Brauhaus,Moos,Bavarian Dark Wheat Beer,?,?,?,?
+Barfer - das kleine Brauhaus,Ulm,Blonde,?,?,?,?
+Barfer - das kleine Brauhaus,Ulm,Rotgold-Pils,4.9%,?,?,north_american_lager|american_style_lager
+Barfer - das kleine Brauhaus,Ulm,Schwarze,?,?,?,german_lager|german_style_schwarzbier
+Brauerei & Gasthof zur Krone,Tettnang,Coronator Helle Doppelbock,7.5%,?,?,german_lager|traditional_german_style_bock
+Brauerei & Gasthof zur Krone,Tettnang,Kellerpils,?,?,?,?
+Brauerei & Gasthof zur Krone,Tettnang,Kronenbier,?,?,?,?
+Brauerei & Gasthof zur Krone,Tettnang,Pils,?,?,?,?
+Brauerei & Gasthof zur Krone,Tettnang,See-Weizen Bio-Hefeweizen,?,?,?,german_ale|south_german_style_hefeweizen
+Brauerei Hrle,Leutkirch im AllgÃ¤u,Dunkle Weisse,5.3%,?,?,?
+Brauerei Leibinger,Ravensburg,Edel-Pils,4.8%,?,?,?
+Brauerei Leibinger,Ravensburg,Edel-Spezial,5.2%,?,?,?
+Brauerei Leibinger,Ravensburg,Hefe-Weizen,5.2%,?,?,german_ale|south_german_style_hefeweizen
+Brauereigasthof Adler,Herbertingen,Pils,5%,?,?,?
+Brauereigasthof Adler,Herbertingen,Spezial,5.1%,?,?,?
+Brauereigasthof Adler,Herbertingen,Zwickelbier,?,?,?,?
+Brauhaus Johann Albrecht - Konstanz,Konstanz,Herbstbeer,?,?,?,german_lager|german_style_oktoberfest
+Brauhaus Johann Albrecht - Konstanz,Konstanz,Kupfer,?,?,?,north_american_lager|american_style_lager
+Brauhaus Johann Albrecht - Konstanz,Konstanz,Messing,?,?,?,?
+Brauhaus Johann Albrecht - Konstanz,Konstanz,Nickelbier,6.5%,?,?,german_lager|traditional_german_style_bock
+Brauhaus Johann Albrecht - Konstanz,Konstanz,Weizen,?,?,?,german_ale|south_german_style_hefeweizen
+Dinkelacker-Schwaben Bru,Stuttgart,CD-Pils,4.9%,?,?,german_lager|german_style_pilsener
+Dinkelacker-Schwaben Bru,Stuttgart,Das Schwarze / Dark,4.9%,?,?,?
+Dinkelacker-Schwaben Bru,Stuttgart,Sanwald Dunkelweizen,?,?,?,?
+Edelweissbrauerei Farny,Kilegg,Alt-DÃ¼rrener-WeiÃŸe,?,?,?,?
+Edelweissbrauerei Farny,Kilegg,Edelweiss,?,?,?,german_ale|south_german_style_hefeweizen
+Edelweissbrauerei Farny,Kilegg,Hofgutsbier,?,?,?,?
+Edelweissbrauerei Farny,Kilegg,Humpis-Original Naturtrub,5.1%,?,?,?
+Edelweissbrauerei Farny,Kilegg,Kristall-Weizen,?,?,?,?
+Engel Brauerei Schwbisch Gmnd Lang,Schwbisch Gmnd,Trompe La Mort,7.4%,?,?,german_lager|traditional_german_style_bock
+FÃ¼rstlich FÃ¼rstenbergische Brauerei,Donaueschingen,Export,?,?,?,?
+FÃ¼rstlich FÃ¼rstenbergische Brauerei,Donaueschingen,Pils,?,?,?,?
+Gasthaus-Brauerei Max & Moritz,Kressbronn am Bodensee,Hefeweizen,?,?,?,german_ale|south_german_style_hefeweizen
+Gasthaus-Brauerei Max & Moritz,Kressbronn am Bodensee,Kellerpils,?,?,?,?
+Gasthaus-Brauerei Max & Moritz,Kressbronn am Bodensee,Spezial,?,?,?,north_american_lager|american_style_lager
+Hoepfner Privatbrauerei,Karlsruhe,Porter,5.8%,?,?,german_lager|german_style_schwarzbier
+Knigsegger WalderBru,Knigseggwald,WalderBrÃ¤u Export,?,?,?,?
+Ruppaner-Brauerei,Konstanz,Edel-Pils,?,?,?,?
+Ruppaner-Brauerei,Konstanz,Hecker Dunkel,5.2%,?,?,?
+Ruppaner-Brauerei,Konstanz,Hefe Weizen Dunkel,?,?,?,?
+Ruppaner-Brauerei,Konstanz,Hefe Weizen Hell,?,?,?,german_ale|south_german_style_hefeweizen
+Ruppaner-Brauerei,Konstanz,Kristall Weizen,?,?,?,?
+Ruppaner-Brauerei,Konstanz,Schimmele Hefe Pils,?,?,?,?
+Ruppaner-Brauerei,Konstanz,Spezial-Export,?,?,?,?
+Schussenrieder Erlebnisbrauerei,Bad Schussenried,Original NÂº 1 NaturtrÃ¼b,?,?,?,?
+Schussenrieder Erlebnisbrauerei,Bad Schussenried,Pils,4.9%,?,?,?
+Schussenrieder Erlebnisbrauerei,Bad Schussenried,Schwarzbier,5.3%,?,?,german_lager|german_style_schwarzbier
+Schussenrieder Erlebnisbrauerei,Bad Schussenried,WeiÃŸe,?,?,?,german_ale|south_german_style_hefeweizen
+Stuttgarter Hofbru,Stuttgart,Malteser Weissbier,5%,?,?,german_ale|south_german_style_hefeweizen
+Vetterï¿½s Alt Heidelberger Brauhaus,Heidelberg,Vetter 33,37%,?,?,?

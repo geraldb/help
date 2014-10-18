@@ -1,0 +1,38 @@
+Brewery,City,Name,Abv,Ibu,Srm,Tags
+Brauerei C. & A. Veltins GmbH & Co.,Meschede,Pilsner,4.8%,?,?,?
+Brauerei Reissdorf,Kln,KÃ¶lsch,?,?,?,?
+Brauerei Schumacher,Dsseldorf,Alt,4.6%,?,?,north_american_ale|american_style_brown_ale
+Brauerei Schwelm,Schwelm,Hefe-Weizen,5.2%,?,?,german_ale|south_german_style_hefeweizen
+Brauerei Schwelm,Schwelm,Pils,4.7%,?,?,?
+Brauerei im Fchschen,DÃ¼sseldorf,Alt,?,?,?,north_american_ale|american_style_brown_ale
+Brauerei und Altbierkche Pinkus Mller,Mnster,Jubilate Special Reserve Anniversary Ale,?,?,?,north_american_ale|american_style_brown_ale
+Brauerei und Altbierkche Pinkus Mller,Mnster,ObergÃ¤rig / MÃ¼nster Alt,?,?,?,north_american_ale|american_style_brown_ale
+Brauerei und Altbierkche Pinkus Mller,Mnster,Organic Hefewizen,?,?,?,german_ale|south_german_style_hefeweizen
+Brauerei und Altbierkche Pinkus Mller,Mnster,Organic Ur Pils,?,?,?,?
+Brauhaus Johann Albrecht - Dsseldorf,Dsseldorf,Kupfer,?,?,?,?
+Brauhaus Johann Albrecht - Dsseldorf,Dsseldorf,Messing,?,?,?,?
+Brauhaus Sion,Kln,KÃ¶lsch,?,?,?,?
+Clner Hofbrau Frh,Kln,KÃ¶lsch,?,?,?,?
+Diebels Privatbrauerei,Issum,Alt,4.9%,?,?,north_american_ale|american_style_brown_ale
+Diebels Privatbrauerei,Issum,German Premium Dark,?,?,?,north_american_ale|american_style_brown_ale
+Dortmunder Actien Brauerei  DAB,Dortmund,Hansa Imported Dortmunder,4.8%,?,?,north_american_lager|american_style_lager
+Dortmunder Actien Brauerei  DAB,Dortmund,Hansa Pils,4.8%,?,?,german_lager|german_style_pilsener
+Dortmunder Actien Brauerei  DAB,Dortmund,Original,4.8%,?,?,?
+Dortmunder Actien Brauerei  DAB,Dortmund,Traditional,?,?,?,north_american_ale|american_style_brown_ale
+Gatz Brauhaus,Dsseldorf,Alt,?,?,?,north_american_ale|american_style_brown_ale
+Gatz Brauhaus,Dsseldorf,Helles Naturtrub,?,?,?,?
+Gatz Brauhaus,Dsseldorf,Pils,?,?,?,?
+Hannen Brauerei,Mnchengladbach,Alt,?,?,?,north_american_ale|american_style_brown_ale
+Hannen Brauerei,Mnchengladbach,Hannen Alt,?,?,?,german_ale|german_style_brown_ale_altbier
+Hausbrauerei Zum Schlssel,Dsseldorf,Altbier,?,?,?,north_american_ale|american_style_brown_ale
+Knig Brauerei,Duisburg,Pilsener,4.9%,?,?,?
+Privatbrauerei Bolten,Korschenbroich,Alt,4.9%,?,?,north_american_ale|american_style_brown_ale
+Privatbrauerei Frankenheim,Dsseldorf,Alt,4.8%,?,?,north_american_ale|american_style_brown_ale
+Privatbrauerei Gaffel,Kln,KÃ¶lsch,?,?,?,?
+Uerige Obergrige Hausbrauerei,Dsseldorf,Alt,4.5%,?,?,north_american_ale|american_style_brown_ale
+Uerige Obergrige Hausbrauerei,Dsseldorf,DoppelSticke,8.5%,?,?,german_lager|traditional_german_style_bock
+Uerige Obergrige Hausbrauerei,Dsseldorf,Sticke,6%,?,?,north_american_ale|american_style_brown_ale
+Warsteiner Brauerei,Warstein,Konig Ludwig Weissbier,5.5%,?,?,german_ale|south_german_style_hefeweizen
+Warsteiner Brauerei,Warstein,Warsteiner Premium Dunkel,4.8%,?,?,?
+Warsteiner Brauerei,Warstein,Warsteiner Premium Oktoberfest,5.9%,?,?,german_lager|german_style_oktoberfest
+Warsteiner Brauerei,Warstein,Warsteiner Premium Verum,4.8%,?,?,german_lager|german_style_pilsener
