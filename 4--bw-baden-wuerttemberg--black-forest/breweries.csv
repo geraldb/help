@@ -1,20 +1,20 @@
-Name,Address,City,State,Code,Website
-Alpirsbacher Klosterbru,Marktplatz 1,Alpirsbach,BW,?,?
-Arcobrau Grafliches Brauhaus,Schlossalle 1,Moos,BW,94554,?
-Barfer - das kleine Brauhaus,Lautenberg 1,Ulm,BW,?,?
-Brauerei & Gasthof zur Krone,Brenplatz 7,Tettnang,BW,?,?
-Brauerei Hrle,Am Hopfengarten 5,Leutkirch im AllgÃ¤u,BW,?,?
-Brauerei Leibinger,Friedhofstrae 20-36,Ravensburg,BW,?,?
-Brauereigasthof Adler,Ortsstrae 1,Herbertingen,BW,?,?
-Brauhaus Johann Albrecht - Konstanz,Konradigasse 2,Konstanz,BW,?,?
-Dinkelacker-Schwaben Bru,Tbinger Strae 46,Stuttgart,BW,?,?
-Edelweissbrauerei Farny,Drren 5,Kilegg,BW,?,?
-Engel Brauerei Schwbisch Gmnd Lang,D-73525 Schwbisch Gmnd,Schwbisch Gmnd,BW,?,?
-FÃ¼rstlich FÃ¼rstenbergische Brauerei,Postplatz 1-4,Donaueschingen,BW,?,?
-Gasthaus-Brauerei Max & Moritz,Weinbichl 6,Kressbronn am Bodensee,BW,?,?
-Hoepfner Privatbrauerei,Haid-und-Neu-Strae 18,Karlsruhe,BW,?,?
-Knigsegger WalderBru,Hauptstrae 6,Knigseggwald,BW,?,?
-Ruppaner-Brauerei,Hoheneggstrae 41-51,Konstanz,BW,?,?
-Schussenrieder Erlebnisbrauerei,Wilhelm-Schussen-Strae 12,Bad Schussenried,BW,?,?
-Stuttgarter Hofbru,Bblinger Strae 104,Stuttgart,BW,?,?
-Vetterï¿½s Alt Heidelberger Brauhaus,Steingasse 9,Heidelberg,BW,69117,?
+Name,Address,City,State,Code,Website,Tags
+Alpirsbacher Klosterbru,Marktplatz 1,Alpirsbach,BW,,?,?
+Arcobrau Grafliches Brauhaus,Schlossalle 1,Moos,BW,94554,?,?
+Barfer - das kleine Brauhaus,Lautenberg 1,Ulm,BW,,?,?
+Brauerei & Gasthof zur Krone,Brenplatz 7,Tettnang,BW,,?,?
+Brauerei Hrle,Am Hopfengarten 5,Leutkirch im AllgÃ¤u,BW,,?,?
+Brauerei Leibinger,Friedhofstrae 20-36,Ravensburg,BW,,?,?
+Brauereigasthof Adler,Ortsstrae 1,Herbertingen,BW,,?,?
+Brauhaus Johann Albrecht - Konstanz,Konradigasse 2,Konstanz,BW,,?,?
+Dinkelacker-Schwaben Bru,Tbinger Strae 46,Stuttgart,BW,,?,?
+Edelweissbrauerei Farny,Drren 5,Kilegg,BW,,?,?
+Engel Brauerei Schwbisch Gmnd Lang,D-73525 Schwbisch Gmnd,Schwbisch Gmnd,BW,,?,?
+FÃ¼rstlich FÃ¼rstenbergische Brauerei,Postplatz 1-4,Donaueschingen,BW,,?,?
+Gasthaus-Brauerei Max & Moritz,Weinbichl 6,Kressbronn am Bodensee,BW,,?,?
+Hoepfner Privatbrauerei,Haid-und-Neu-Strae 18,Karlsruhe,BW,,?,?
+Knigsegger WalderBru,Hauptstrae 6,Knigseggwald,BW,,?,?
+Ruppaner-Brauerei,Hoheneggstrae 41-51,Konstanz,BW,,?,?
+Schussenrieder Erlebnisbrauerei,Wilhelm-Schussen-Strae 12,Bad Schussenried,BW,,?,?
+Stuttgarter Hofbru,Bblinger Strae 104,Stuttgart,BW,,?,?
+Vetterï¿½s Alt Heidelberger Brauhaus,Steingasse 9,Heidelberg,BW,69117,?,?
