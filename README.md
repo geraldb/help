@@ -1,7 +1,7 @@
 # Help & Support
 
 
-Welcome to the help & support page / repo of [Gerald Bauer](https://github.com/geraldb)'s open source / data / (pixel) art work.
+Welcome to the help & support page / repo of [**Gerald Bauer**](https://github.com/geraldb)'s open source / data / (pixel) art work.
 A random nobody from Austria, near Vienna.
 
 
