@@ -2,7 +2,7 @@
 
 
 Welcome to the help & support page / repo for [**Gerald Bauer**](https://github.com/geraldb)'s open source / data / (pixel) art work.
-A random nobody from Austria, near Vienna.
+A random nobody from Austria, near Vienna.   How can I help you today?
 
 
 You are welcome to open up a new ticket / issue
