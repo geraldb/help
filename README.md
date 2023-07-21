@@ -22,5 +22,6 @@ or what's up for discussion / debate now,
 For all things open football / football.db,
 see [**openfootball/help »**](https://github.com/openfootball/help)
 
+For all things Ordgen / ORC-721 (bitcoin ordinal generative inscriptions) join us in the [**Ordgen / ORC-721 discord (chat server)**](https://discord.gg/dDhvHKjm2t).
 
 
